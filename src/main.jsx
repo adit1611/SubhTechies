@@ -8,7 +8,7 @@ import Home from './Components/Home.jsx'
 import About from './Components/About.jsx'
 import Contact from './Components/Contact.jsx'
 import Service from './Components/Service.jsx'
-import Webservice from './subcomp/Webservices.jsx'
+import Webservices from './subcomp/Webservices.jsx'
 import Appservice from './subcomp/Appservice.jsx'
 import Tech from './subcomp/Tech.jsx'
 import Content from './subcomp/Content.jsx'
@@ -23,7 +23,7 @@ const connection = createBrowserRouter(
       <Route path = 'service' element={<Service />}/>
       <Route path = 'about' element={<About />}/>
       <Route path = 'contact' element={<Contact />}/>
-      <Route path = 'Webservice' element={<Webservice />}/>
+      <Route path = 'Webservices' element={<Webservices />}/>
       <Route path = 'Appservice' element={<Appservice />}/>
       <Route path = 'Tech' element={<Tech />}/>
       <Route path = 'Graphics' element={<Graphics />}/>
