@@ -8,13 +8,12 @@ import Home from './Components/Home.jsx'
 import About from './Components/About.jsx'
 import Contact from './Components/Contact.jsx'
 import Service from './Components/Service.jsx'
-import Webservices from './subcomp/Webservices.jsx'
-import Appservice from './subcomp/Appservice.jsx'
-import Tech from './subcomp/Tech.jsx'
-import Content from './subcomp/Content.jsx'
-import Editing from './subcomp/Editing.jsx'
-import Graphics from './subcomp/Graphics.jsx'
-
+import Webservices from './path/to/Subcomp/Webservice'; // Correct the import path
+import Appservice from './path/to/Appservice'; // Add other components similarly
+import Graphics from './path/to/Graphics';
+import Tech from './path/to/Tech';
+import Content from './path/to/Content';
+import Editing from './path/to/Editing';
 
 const connection = createBrowserRouter(
    createRoutesFromElements(
