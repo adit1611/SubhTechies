@@ -9,17 +9,17 @@ const Footer = () => {
         <div className="flex flex-col items-center justify-between md:flex-row">
           {/* Logo and Description */}
           <div className="mb-0 md:mb-0 text-center md:text-left">
-            <h2 className="text-2xl font-bold">MyCompany</h2>
+            <h2 className="text-2xl font-bold">ShubhTechies</h2>
             <p className="mt-2 text-gray-400">Delivering excellence in every project.</p>
           </div>
 
           {/* Navigation Links */}
           <div className="mb-6 md:mb-0">
             <ul className="flex flex-col md:flex-row md:space-x-6 text-center md:text-left">
-              <li><a href="/" className="block py-1 md:py-0 hover:text-gray-400">Home</a></li>
-              <li><a href="/about" className="block py-1 md:py-0 hover:text-gray-400">About</a></li>
-              <li><a href="/service" className="block py-1 md:py-0 hover:text-gray-400">Services</a></li>
-              <li><a href="/contact" className="block py-1 md:py-0 hover:text-gray-400">Contact</a></li>
+              <li><a href="/SubhTechies/" className="block py-1 md:py-0 hover:text-gray-400">Home</a></li>
+              <li><a href="/SubhTechies/about" className="block py-1 md:py-0 hover:text-gray-400">About</a></li>
+              <li><a href="/SubhTechies/service" className="block py-1 md:py-0 hover:text-gray-400">Services</a></li>
+              <li><a href="/SubhTechies/contact" className="block py-1 md:py-0 hover:text-gray-400">Contact</a></li>
             </ul>
           </div>
 
