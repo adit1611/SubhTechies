@@ -217,7 +217,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/SubhTechies/web-service'>
+                    <a href='https://adit1611.github.io/SubhTechies/Webservices'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
