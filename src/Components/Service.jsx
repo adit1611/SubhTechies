@@ -33,7 +33,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/Webservice'>
+                     <a href='/SubhTechies/Webservices'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -51,7 +51,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/Appservice'>
+                     <a href='/SubhTechies/Appservice'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -69,7 +69,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/Graphics'>
+                     <a href='/SubhTechies/Graphics'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -87,7 +87,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/Tech'>
+                     <a href='/SubhTechies/Tech'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -105,7 +105,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/Content'>
+                     <a href='/SubhTechies/Content'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -123,7 +123,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/Editing'>
+                     <a href='/SubhTechies/Editing'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -181,7 +181,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/web-service'>
+                     <a href='/SubhTechies/web-service'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -199,7 +199,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/web-service'>
+                     <a href='/SubhTechies/web-service'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
@@ -217,7 +217,7 @@ function Service() {
               
                     <p className='text-justify p-5'>Build a Powerful Online Presence We create responsive, dynamic, and visually appealing websites that are tailored to your business needs. </p> <br/>
                     <span className='h-20 w-40 mx-10 my-10 text-2xl bg-gradient-to-bl from-yellow-400 via-fuchsia-500  to-slate-500 hover:bg-gradient-to-tr'>
-                     <a href='/web-service'>
+                     <a href='/SubhTechies/web-service'>
                      <button className='px-5 '>Portfolio Link</button>
                      </a>
                     </span>
