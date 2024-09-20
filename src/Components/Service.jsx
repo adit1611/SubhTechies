@@ -22,7 +22,7 @@ function Service() {
         </div>
         <div className='h-auto w-fit grid grid-cols-1 lg:grid-cols-3 sm:grid-cols-2 md:grid-cols-2 gap-5 mx-4 my-10 gap-x-10 gap-y-20 md:mx-10 md:my-20 '>
         <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+        lg:w-[30vw] lg:h-[40vh] sm:w-full sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
