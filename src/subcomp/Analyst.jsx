@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Analyt() {
+function Analyst() {
   return (
     <div>Analyt</div>
   )
 }
 
-export default Analyt
+export default Analyst

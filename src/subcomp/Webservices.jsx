@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Webservice() {
+function Webservices() {
   return (
     <div className='text-slate-300 text-xl'>
     <div className='font-mono bg-gradient-to-r from-gray-500 bg-opacity-10 p-5 leading-15 text-justify my-40 rounded-lg'>
@@ -67,4 +67,4 @@ function Webservice() {
   )
 }
 
-export default Webservice
+export default Webservices

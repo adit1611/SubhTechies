@@ -32,7 +32,7 @@ const connection = createBrowserRouter(
       <Route path = 'Content' element={<Content />}/>
       <Route path = 'Editing' element={<Editing />}/>
       <Route path = 'Software' element={<Software />}/>
-      <Route path = 'Artificial' element={<Analyst />}/>
+      <Route path = 'Artificial' element={<Artificial />}/>
       <Route path = 'Analyst' element={<Analyst />}/>
       </Route>
    )
