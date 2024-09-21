@@ -201,8 +201,7 @@ function Service() {
                 </div>
                 <div className="lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
-        rounded-xl shadow-xl transition duration-300 hover:scale-105
-      ">
+        rounded-xl shadow-xl transition duration-300 hover:scale-105">
                 <span className="block text-center p-6 bg-gradient-to-r from-blue-500 to-teal-500 rounded-lg shadow-lg">
                 <h1 className="text-4xl font-bold text-white">
                   Data Analyst
