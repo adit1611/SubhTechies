@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom'
 import Heart from '../assets/heart.png'
 function Service() {
   return (
-    <div className='text-white'>
-        <div className='m-10 text-justify bg-gradient-to-r from-slate-700 via-transparent  bg-opacity-15 bg-transparent p-2 rounded-lg text-xl'>
+    <div className='text-white overflow-hidden'>
+        <div className='m-8 text-justify bg-gradient-to-r from-slate-700 via-transparent  bg-opacity-15 bg-transparent p-2 rounded-lg text-xl'>
             <h1 className='text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-bl from-pink-400  to-red-500 bg-clip-text text-transparent opacity-80  decoration-slice underline'>Our Service</h1>
             <p className='text-xl'>We specialize in transforming your ideas into digital realities. We pride ourselves on being more than just a service provider—we are your dedicated partner in the digital transformation journey. Our expertise lies in turning your innovative ideas into tangible digital solutions that propel your business forward. We understand that in today’s fast-paced digital world, the ability to adapt and evolve is crucial for success. That’s why our comprehensive range of services is meticulously crafted to meet the diverse needs of businesses, regardless of their size or industry.</p>
 
@@ -14,15 +14,14 @@ function Service() {
             
         </div>
         <div>
-        <div className='my-28 mx-10 md:my-16 lg:my-28 sm:my10 xs:my6  gap-y-20 border-b-4 w-fit border-b-orange-200 '> <h1
-      className="text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-bl from-pink-400 via-blue-300 to-red-500 bg-clip-text text-transparent opacity-85  decoration-slice"
-    >
+        <div className='my-28  mx-8 md:my-16 lg:my-28 sm:my10 xs:my-6 xs:p-20 gap-y-20 border-b-4 w-fit border-b-orange-200 '> 
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-bl from-pink-400 via-blue-300 to-red-500 bg-clip-text text-transparent opacity-85  decoration-slice">
       Onboard Services
     </h1></div>
         </div>
-        <div className='h-auto w-fit grid grid-cols-1 lg:grid-cols-3 sm:grid-cols-2 md:grid-cols-2 gap-5 mx-4 my-10 gap-x-10 gap-y-20 md:mx-10 md:my-20 '>
-        <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-full sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+        <div className='h-auto w-screen grid grid-cols-1 lg:grid-cols-3 sm:grid-cols-2 md:grid-cols-2 gap-2 -mx-5 my-10 gap-x-6 gap-y-20 md:mx-10 md:my-20 '>
+        <div className="
+        lg:w-[30vw] lg:h-[40vh] sm:w-1/2 sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
@@ -39,8 +38,8 @@ function Service() {
                      </Link>
                     </span>
                 </div>
-                <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+                <div className="
+        lg:w-[30vw] lg:h-[40vh] sm:w-1/2 sm:h-[70vh] xs:w-1/2 md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
@@ -57,8 +56,8 @@ function Service() {
                      </Link>
                     </span>
                 </div>
-                <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+                <div className="
+        lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
@@ -75,8 +74,7 @@ function Service() {
                      </Link>
                     </span>
                 </div>
-                <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+                <div className="lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
@@ -93,8 +91,7 @@ function Service() {
                      </Link>
                     </span>
                 </div>
-                <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+                <div className="lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
@@ -111,8 +108,7 @@ function Service() {
                      </Link>
                     </span>
                 </div>
-                <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+                <div className="lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
@@ -169,11 +165,10 @@ function Service() {
     </h1></div>
 
   <div className='h-auto w-fit grid grid-cols-1 lg:grid-cols-3 sm:grid-cols-2 md:grid-cols-2 gap-5 mx-4 my-10 gap-x-10 gap-y-20 md:mx-10 md:my-20 '>
-        <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
-        shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
-        rounded-xl shadow-xl transition duration-300 hover:scale-105
-      ">
+  <div className="lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+  shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
+  rounded-xl shadow-xl transition duration-300 hover:scale-105
+">
                 <span className="block text-center p-6 bg-gradient-to-r from-blue-500 to-teal-500 rounded-lg shadow-lg">
                 <h1 className="text-4xl font-bold text-white">
                   Software Development
@@ -187,8 +182,7 @@ function Service() {
                      </Link>
                     </span>
                 </div>
-                <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+                <div className="lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
@@ -205,8 +199,7 @@ function Service() {
                      </Link>
                     </span>
                 </div>
-                <div className="w-[30vw] h-[40vh]
-        lg:w-[30vw] lg:h-[40vh] sm:w-full sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
+                <div className="lg:w-[28vw] lg:h-[40vh] sm:w-[100vw] sm:h-[70vh] xs:w-full md:w-[40vw] md:h-[30vh] custom-gradient-opacity
         shadow-[#B665C1] hover:shadow-2xl hover:shadow-[#DF4FF2] transform 
         rounded-xl shadow-xl transition duration-300 hover:scale-105
       ">
